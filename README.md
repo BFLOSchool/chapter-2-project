@@ -20,7 +20,7 @@ Currently On Tap:  http://www.bigditchbrewing.com/currently-on-tap/
 Lastly, you can access an example Employee list here:
 https://docs.google.com/spreadsheets/d/1mpCrIR9txn__z8IDtpHUca67HvCF0KfzrNoWHOvLV50/edit?usp=sharing
 
-1. Workflow Management - Project tasks are to be assigned by Project Manager
+1. **Workflow Management** - Project tasks are to be assigned by Project Manager
 
 * Using Trello, create a private Team Board and invite other team members
 	* Team members are assigned via your School Dashboard.
@@ -40,50 +40,59 @@ https://docs.google.com/spreadsheets/d/1mpCrIR9txn__z8IDtpHUca67HvCF0KfzrNoWHOvL
 		* Beverage Items
 			* Signatures: http://www.bigditchbrewing.com/signatures/
 			* Limited Release:  http://www.bigditchbrewing.com/limited-release-1/
-Seasonals:  http://www.bigditchbrewing.com/seasonals-w-pics/
-File Name:  BeerMenu.json
-Use this JSON format to fill in all the remainder of the items
-Include links in each card to the above referenced web locations of the content for to be referenced.
-Test the JSON file in console.bfloschool.com to make sure that it works.
+			* Seasonals:  http://www.bigditchbrewing.com/seasonals-w-pics/
+			* File Name:  BeerMenu.json
+			* Use this JSON format to fill in all the remainder of the items
 
-Working with JSON Files:
-For Food Items.  Make the following changes to each of the JSON file using Methods and functions in the console.
-Food Items Changes
-1
-2
-3
-4
-5
-Employee Details Changes
-1
-2
-3
-4
-5
-Beverage Items Changes
-1
-2
-3
-4
-5
-Github:
-PM creates tickets to Instruct team members to copy the repository from the BFLOschool github account pertaining to Project 2 and complete each associated JSON file
-PM may breakdown the work in to segments however he seems fit
-PM must log in to Github and Setup a private repository.
-Create a name for the respository that references the project at hand.
-Invite all team members to have access to the private account.
-Team members must upload their JSON files into this private repository.
-Once project is completed and tested, all team members are to duplicate the repository to their own accounts, and Make them public.
-PM is to change team github repository from Public to Private
-Submit link to repository for reveiw.
+	* Include links in each card to the above referenced web locations of the content for to be referenced.
 
+* Test the JSON file in console.bfloschool.com to make sure that it works.
 
-QA Testing
-Your team will be randomly assigned to review another teams work.
-PM is to divide up the following tasks for each team member.
-Using JSON Parsing techniques, verify that all items are included in each of the files.  Coincides with that applicable input changes.  
-Does the JSON file work?  Y/N
-Provide 3 suggested points of feedback on how to improve each of the three JSON files.
-https://appdividend.com/2018/08/17/how-to-parse-json-in-javascript/
-https://stackoverflow.com/questions/28149462/how-to-print-json-data-in-console-log/28149517
-https://code-maven.com/logging-javascript-objects
+2. **Working with JSON Files** -
+
+* For Food Items.  Make the following changes to each of the JSON file using Methods and functions in the console.
+	* Food Item Changes
+		- [] 1
+		- [] 2
+		- [] 3
+		- [] 4
+		- [] 5
+
+	* Employee Detail Changes
+		- [] 1
+		- [] 2
+		- [] 3
+		- [] 4
+		- [] 5
+
+	* Beverage Items Changes
+		- [] 1
+		- [] 2
+		- [] 3
+		- [] 4
+		- [] 5
+
+3. Github:
+* PM creates tickets to Instruct team members to copy the repository from the BFLOschool github account pertaining to Project 2 and complete each associated JSON file
+	* PM may breakdown the work in to segments however he seems fit
+
+* PM must log in to Github and Setup a private repository.
+	* Create a name for the respository that references the project at hand.
+	* Invite all team members to have access to the private account.
+	* Team members must upload their JSON files into this private repository.
+
+* Once project is completed and tested, all team members are to duplicate the repository to their own accounts, and Make them public.
+
+* PM is to change team github repository from Public to Private
+* Submit link to repository for review.
+
+4. **QA Testing**
+* Your team will be randomly assigned to review another teams work.
+
+* PM is to divide up the following tasks for each team member.
+	* Using JSON Parsing techniques, verify that all items are included in each of the files.  Coincides with that applicable input changes.  
+	* Does the JSON file work?  Y/N
+	* Provide 3 suggested points of feedback on how to improve each of the three JSON files.
+	* https://appdividend.com/2018/08/17/how-to-parse-json-in-javascript/
+	* https://stackoverflow.com/questions/28149462/how-to-print-json-data-in-console-log/28149517
+	* https://code-maven.com/logging-javascript-objects
