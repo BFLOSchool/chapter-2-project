@@ -72,7 +72,8 @@ https://docs.google.com/spreadsheets/d/1mpCrIR9txn__z8IDtpHUca67HvCF0KfzrNoWHOvL
 		- [] 4
 		- [] 5
 
-3. Github:
+3. **Github**
+
 * PM creates tickets to Instruct team members to copy the repository from the BFLOschool github account pertaining to Project 2 and complete each associated JSON file
 	* PM may breakdown the work in to segments however he seems fit
 
